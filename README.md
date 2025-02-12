@@ -1,6 +1,4 @@
-## Hi there 👋
-
-**rexdez/rexdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, Rohit Here. Formerly UI/UX/Graphic Designer, currently a Backend Developer.
 
 - 🔭 I’m currently working at Building Zbiz & Samantha
 - 🌱 I’m currently learning C language and some AI stuff
